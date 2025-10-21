@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <div class="soft-bg min-h-screen py-20 text-[var(--soft-ink)]">
+    <div class="soft-bg min-h-screen py-20 text-(--soft-ink)">
         <div class="mx-auto grid max-w-7xl gap-12 px-6 font-sans md:grid-cols-2 lg:grid-cols-[1.3fr,1fr] items-start">
             @livewire('forms')
             @livewire('users')
